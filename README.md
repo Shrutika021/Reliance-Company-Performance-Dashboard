@@ -40,6 +40,8 @@ It includes **interactive navigation buttons, slicers, and bookmarks** to make t
 ## 📸 Dashboard Preview
 ![image Alt](https://github.com/Shrutika021/Reliance-Company-Performance-Dashboard/blob/main/Reliance%20Dashbord%20Image.png?raw=true)
 
+## 🔗 Connect with Me  
+ **LinkedIn:** [www.linkedin.com/in/shrutika-kamble-9522221ab]
 ---
 
 ## 🚀 Key Insights
