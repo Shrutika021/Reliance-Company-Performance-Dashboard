@@ -38,7 +38,7 @@ It includes **interactive navigation buttons, slicers, and bookmarks** to make t
 
 ---
 ## 📸 Dashboard Preview
-
+![image Alt](https://github.com/Shrutika021/Reliance-Company-Performance-Dashboard/blob/main/Reliance%20Dashbord%20Image.png?raw=true)
 
 ---
 
